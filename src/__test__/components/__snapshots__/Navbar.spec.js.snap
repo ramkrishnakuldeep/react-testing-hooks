@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`load Navbar 1`] = `
+<DocumentFragment>
+  <nav>
+    <div
+      class="nav-wrapper"
+    >
+      <a
+        class="brand-logo"
+        href="/"
+      >
+        Hooks Demo
+      </a>
+      <ul
+        class="right hide-on-med-and-down"
+        id="nav-mobile"
+      >
+        <li>
+          <a
+            data-testid="nav-home"
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            data-testid="nav-about"
+            href="/about"
+          >
+            About
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</DocumentFragment>
+`;
